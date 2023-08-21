@@ -7,7 +7,7 @@
 .stick {
   position: sticky;
   top: 0;
-  background-color: rgb(131, 152, 174);
+  background-color: rgba(128, 128, 128, 0.84);
 }
 
 .img {
@@ -24,8 +24,6 @@
   padding-top: 16px;
   padding-bottom: 6px;
   width: fit-content;
-
-  background-color: rgb(131, 152, 174);
 }
 
 .search-form button {
